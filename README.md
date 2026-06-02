@@ -54,11 +54,12 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🎬 [Movie Website](https://github.com/iaminaadhikari/Movie-Website-React-) | Movie browsing platform with live API integration, search & responsive design | React.js |
-| 🖨️ [Inkbuzz Printer Website](https://github.com/iaminaadhikari/Ecommerce-website) | Team-built e-commerce site for printing services with product catalog | HTML, CSS, JS |
 | ✅ [To-Do List App](https://github.com/iaminaadhikari/To-do-list-React-) | Task management app with React state management & local storage | React.js |
-| 🐍 [Land Rental System](https://github.com/iaminaadhikari/Land-Rental-System-Python) | Property rental management system with backend logic | Python |
 | 👩‍🏫 [Teacher Registration System](https://github.com/iaminaadhikari/Teacher-Registration-System-Java) | Institutional registration & management system with database integration | Java |
-| 🌐 [My Portfolio](https://github.com/iaminaadhikari/inaadhikariportfolio) | Personal portfolio website — [live here](https://www.ina.com.np/trial.html) | HTML, CSS |
+| 🎓 [Final Year Project](https://github.com/iaminaadhikari/Final-Year-Project) | [Your description here — e.g. "Full-stack capstone project for BSc Computing degree"] | [Your tech here] |
+| 📔 [Personal Journal Application](https://github.com/iaminaadhikari/Personal-Journal-Application) | [Your description here — e.g. "Private journaling app with CRUD operations and user authentication"] | [Your tech here] |
+| 🌐 [Data and Web](https://github.com/iaminaadhikari/DataandWeb) | [Your description here — e.g. "Web application demonstrating data management and dynamic content"] | [Your tech here] |
+| 🎮 [Flutter Puzzle Game](https://github.com/iaminaadhikari/Flutter-Puzzle-Game) | [Your description here — e.g. "Interactive puzzle game built with Flutter for cross-platform mobile play"] | Flutter, Dart |
 
 ---
 
@@ -69,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminaadhikari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iaminaadhikari&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iaminaadhikari&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
