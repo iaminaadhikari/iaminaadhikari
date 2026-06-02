@@ -80,10 +80,10 @@
 
 ### 🏅 Certifications
 
-- 📊 [AWS Academy Data Engineering](https://www.credly.com/search#?q=AWS+Academy+Data+Engineering)
-- 🤖 [AWS Academy Machine Learning Foundations](https://www.credly.com/search#?q=AWS+Academy+Machine+Learning+Foundations)
-- ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/search#?q=AWS+Academy+Cloud+Foundations)
-- 🗣️ [AWS Academy Machine Learning for NLP](https://www.credly.com/search#?q=AWS+Academy+Machine+Learning+NLP)
+- 📊 [AWS Academy Data Engineering](https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url)
+- 🤖 [AWS Academy Machine Learning Foundations](https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url)
+- ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url)
+- 🗣️ [AWS Academy Machine Learning for NLP](https://www.credly.com/badges/7f9ba3d6-dc20-4459-8c77-9c4e2034e855/public_url)
 - 📱 [Cross-Platform Mobile Apps with Flutter & Dart](https://www.udemy.com/certificate/)
 - 🧮 [Data Structures and Algorithms](https://www.coursera.org/search?query=data+structures+and+algorithms)
 
