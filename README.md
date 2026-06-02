@@ -84,4 +84,4 @@
 
 ---
 
-<p align="center">💬 Open to internships, collaborations, and entry-level opportunities!</p>
+<p align="center">💬 Open to jobs, collaborations, and entry-level opportunities!</p>
