@@ -59,7 +59,7 @@
 | 🎓 [Final Year Project](https://github.com/iaminaadhikari/Final-Year-Project) | Full-stack mobile application with separate admin, backend & frontend modules built for BSc Computing capstone | Flutter, Dart, JavaScript |
 | 📔 [Personal Journal Application](https://github.com/iaminaadhikari/PersonalJournalApplication) | Cross-platform journaling app with CRUD operations built using .NET MAUI, running on Windows, Android & iOS | .NET MAUI, C# |
 | 🎞️ [Kumari Cinemas](https://github.com/iaminaadhikari/DataandWeb) | Cinema booking web app with movie listings, show scheduling, ticket management & occupancy reports | ASP.NET, C# |
-| 🎮 [Flutter Puzzle Game](https://github.com/iaminaadhikari/Flutter_Puzzle_Game) | Interactive cross-platform puzzle game with smooth UI and game logic built in Flutter & Dart | Flutter, Dart |
+| 🎮 [Flutter Puzzle Game](https://github.com/iaminaadhikari/Flutter_Puzzle_Game) | Interactive cross-platform sliding puzzle game with smooth UI and state management | Flutter, Dart |
 
 ---
 
@@ -70,18 +70,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminaadhikari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iaminaadhikari&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=iaminaadhikari&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaminaadhikari&theme=tokyonight" width="98%"/>
 </p>
 
 ---
 
 ### 🏅 Certifications
 
-- ☁️ AWS Academy Cloud Foundations
-- 🤖 AWS Academy Machine Learning Foundations & NLP
-- 📊 AWS Academy Data Engineering
-- 📱 Cross-Platform Mobile Apps with Flutter & Dart
-- 🧮 Data Structures and Algorithms
+- 📊 [AWS Academy Data Engineering](https://www.credly.com/search#?q=AWS+Academy+Data+Engineering)
+- 🤖 [AWS Academy Machine Learning Foundations](https://www.credly.com/search#?q=AWS+Academy+Machine+Learning+Foundations)
+- ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/search#?q=AWS+Academy+Cloud+Foundations)
+- 🗣️ [AWS Academy Machine Learning for NLP](https://www.credly.com/search#?q=AWS+Academy+Machine+Learning+NLP)
+- 📱 [Cross-Platform Mobile Apps with Flutter & Dart](https://www.udemy.com/certificate/)
+- 🧮 [Data Structures and Algorithms](https://www.coursera.org/search?query=data+structures+and+algorithms)
 
 ---
 
