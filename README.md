@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminaadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminaadhikari&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iaminaadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminaadhikari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iaminaadhikari&theme=tokyonight&hide_border=true" width="60%"/>
