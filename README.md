@@ -56,10 +56,10 @@
 | 🎬 [Movie Website](https://github.com/iaminaadhikari/Movie-Website-React-) | Movie browsing platform with live API integration, search & responsive design | React.js |
 | ✅ [To-Do List App](https://github.com/iaminaadhikari/To-do-list-React-) | Task management app with React state management & local storage | React.js |
 | 👩‍🏫 [Teacher Registration System](https://github.com/iaminaadhikari/Teacher-Registration-System-Java) | Institutional registration & management system with database integration | Java |
-| 🎓 [Final Year Project](https://github.com/iaminaadhikari/Final-Year-Project) | [Your description here — e.g. "Full-stack capstone project for BSc Computing degree"] | [Your tech here] |
-| 📔 [Personal Journal Application](https://github.com/iaminaadhikari/Personal-Journal-Application) | [Your description here — e.g. "Private journaling app with CRUD operations and user authentication"] | [Your tech here] |
-| 🌐 [Data and Web](https://github.com/iaminaadhikari/DataandWeb) | [Your description here — e.g. "Web application demonstrating data management and dynamic content"] | [Your tech here] |
-| 🎮 [Flutter Puzzle Game](https://github.com/iaminaadhikari/Flutter-Puzzle-Game) | [Your description here — e.g. "Interactive puzzle game built with Flutter for cross-platform mobile play"] | Flutter, Dart |
+| 🎓 [Final Year Project](https://github.com/iaminaadhikari/Final-Year-Project) | Full-stack mobile application with separate admin, backend & frontend modules built for BSc Computing capstone | Flutter, Dart, JavaScript |
+| 📔 [Personal Journal Application](https://github.com/iaminaadhikari/PersonalJournalApplication) | Cross-platform journaling app with CRUD operations built using .NET MAUI, running on Windows, Android & iOS | .NET MAUI, C# |
+| 🎞️ [Kumari Cinemas](https://github.com/iaminaadhikari/DataandWeb) | Cinema booking web app with movie listings, show scheduling, ticket management & occupancy reports | ASP.NET, C# |
+| 🎮 [Flutter Puzzle Game](https://github.com/iaminaadhikari/Flutter_Puzzle_Game) | Interactive cross-platform puzzle game with smooth UI and game logic built in Flutter & Dart | Flutter, Dart |
 
 ---
 
