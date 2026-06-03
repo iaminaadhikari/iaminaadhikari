@@ -23,7 +23,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/xd/xd-plain.svg" width="16"/> Former **UI/UX Designer** at Sriyog Consulting — built interfaces for real web & mobile products
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" width="16"/> I bridge **design and development** — from Figma wireframes to working React apps
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/nextjs/nextjs-original.svg" width="16"/> Currently learning **Next.js** and deepening my full-stack skills
-- <img src="https://img.shields.io/badge/📍-Bhaktapur,_Nepal-red?style=flat-square"/> Based in Bhaktapur, Nepal
+- 📍 Based in Bhaktapur, Nepal
 
 ---
 
@@ -64,6 +64,8 @@
   </tr>
 </table>
 
+<br>
+
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> Backend & Database**
 
 <table>
@@ -94,6 +96,8 @@
     </td>
   </tr>
 </table>
+
+<br>
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="20"/> Design & Tools**
 
@@ -207,7 +211,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="28"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iaminaadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
@@ -224,31 +228,22 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"/> Certifications
 
-**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> Amazon Web Services**
+**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24"/> Amazon Web Services**
 
-| Badge | Certification | Link |
-|-------|--------------|------|
-| <img src="https://images.credly.com/size/40x40/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="32"/> | AWS Academy Data Engineering | [View on Credly](https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url) |
-| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="32"/> | AWS Academy Machine Learning Foundations | [View on Credly](https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url) |
-| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="32"/> | AWS Academy Cloud Foundations | [View on Credly](https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url) |
-| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="32"/> | AWS Academy Machine Learning for NLP | [View on Credly](https://www.credly.com/badges/7f9ba3d6-dc20-4459-8c77-9c4e2034e855/public_url) |
+| &nbsp; | Certification |  |
+|--------|--------------|--|
+| <img src="https://images.credly.com/size/40x40/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="36"/> | AWS Academy Data Engineering | [View on Credly](https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url) |
+| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="36"/> | AWS Academy Machine Learning Foundations | [View on Credly](https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url) |
+| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="36"/> | AWS Academy Cloud Foundations | [View on Credly](https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url) |
+| <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="36"/> | AWS Academy Machine Learning for NLP | [View on Credly](https://www.credly.com/badges/7f9ba3d6-dc20-4459-8c77-9c4e2034e855/public_url) |
 
-**<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white"/> Udemy**
+<br>
 
-| Badge | Certification | Link |
-|-------|--------------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flutter/flutter-original.svg" width="32"/> | Cross-Platform Mobile Apps with Flutter & Dart | [View Certificate](https://www.udemy.com/certificate/) |
-
-**<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white"/> Coursera**
-
-| Badge | Certification | Link |
-|-------|--------------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" width="32"/> | Data Structures and Algorithms | [View Certificate](https://www.coursera.org/search?query=data+structures+and+algorithms) |
+| &nbsp; | Certification |  |
+|--------|--------------|--|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flutter/flutter-original.svg" width="36"/> | Cross-Platform Mobile Apps with Flutter & Dart | [View Certificate](https://www.udemy.com/certificate/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" width="36"/> | Data Structures and Algorithms | [View Certificate](https://www.coursera.org/search?query=data+structures+and+algorithms) |
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20"/>
-  Open to jobs, collaborations, and entry-level opportunities!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="20"/>
-</p>
+<p align="center">Open to jobs, collaborations, and entry-level opportunities!</p>
