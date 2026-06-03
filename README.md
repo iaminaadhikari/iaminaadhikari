@@ -128,7 +128,8 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flutter/flutter-original.svg" width="18"/>
         Final Year Project
@@ -140,8 +141,10 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/Final-Year-Project">View Project →</a></p>
+      <br>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" width="18"/>
         Movie Website
@@ -152,10 +155,12 @@
         <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/Movie-Website-React-">View Project →</a></p>
+      <br>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flutter/flutter-original.svg" width="18"/>
         Flutter Puzzle Game
@@ -166,8 +171,10 @@
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/Flutter_Puzzle_Game">View Project →</a></p>
+      <br>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/react/react-original.svg" width="18"/>
         To-Do List App
@@ -178,10 +185,12 @@
         <img src="https://img.shields.io/badge/localStorage-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/To-do-list-React-">View Project →</a></p>
+      <br>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/dotnetcore/dotnetcore-original.svg" width="18"/>
         Personal Journal App
@@ -192,8 +201,10 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/PersonalJournalApplication">View Project →</a></p>
+      <br>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <br>
       <h3 align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/dotnetcore/dotnetcore-original.svg" width="18"/>
         Kumari Cinemas
@@ -205,6 +216,7 @@
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
       <p align="center"><a href="https://github.com/iaminaadhikari/DataandWeb">View Project →</a></p>
+      <br>
     </td>
   </tr>
 </table>
@@ -228,10 +240,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"/> Certifications
 
-**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24"/> Amazon Web Services**
+**<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="20"/> Amazon Web Services**
 
-| &nbsp; | Certification |  |
-|--------|--------------|--|
+| &nbsp; | Certification | &nbsp; |
+|:------:|:-------------|:------:|
 | <img src="https://images.credly.com/size/40x40/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="36"/> | AWS Academy Data Engineering | [View on Credly](https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url) |
 | <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="36"/> | AWS Academy Machine Learning Foundations | [View on Credly](https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url) |
 | <img src="https://images.credly.com/size/40x40/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="36"/> | AWS Academy Cloud Foundations | [View on Credly](https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url) |
@@ -239,8 +251,8 @@
 
 <br>
 
-| &nbsp; | Certification |  |
-|--------|--------------|--|
+| &nbsp; | Certification | &nbsp; |
+|:------:|:-------------|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/flutter/flutter-original.svg" width="36"/> | Cross-Platform Mobile Apps with Flutter & Dart | [View Certificate](https://www.udemy.com/certificate/) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" width="36"/> | Data Structures and Algorithms | [View Certificate](https://www.coursera.org/search?query=data+structures+and+algorithms) |
 
