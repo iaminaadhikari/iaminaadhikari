@@ -150,21 +150,33 @@
 
 **Amazon Web Services**
 
-<p>
+<p align="left">
   <a href="https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy%20Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/aws-data-engineering.svg" width="130"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy%20ML%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/aws-ml-foundations.svg" width="130"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/aws-cloud-foundations.svg" width="130"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/7f9ba3d6-dc20-4459-8c77-9c4e2034e855/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy%20ML%20for%20NLP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/aws-ml-nlp.svg" width="130"/>
+  </a>
+</p>
+
+**Other**
+
+<p align="left">
+  <a href="https://www.udemy.com/certificate/">
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/udemy-flutter-dart.svg" width="130"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.coursera.org/search?query=data+structures+and+algorithms">
+    <img src="https://raw.githubusercontent.com/iaminaadhikari/iaminaadhikari/main/assets/badges/coursera-dsa.svg" width="130"/>
   </a>
 </p>
 
