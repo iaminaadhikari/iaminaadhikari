@@ -18,8 +18,8 @@
 ## About Me
 
 - BSc (Hons) Computing student at Islington College × London Metropolitan University
-- Former UI/UX Designer at Sriyog Consulting — built interfaces for real web & mobile products
-- Bridging design and development — from Figma wireframes to working React apps
+- Former UI/UX Designer at Sriyog Consulting, where I built interfaces for real web and mobile products
+- I bridge design and development, from Figma wireframes to working React apps
 - Currently learning Next.js and deepening my full-stack skills
 - Based in Bhaktapur, Nepal
 
@@ -69,7 +69,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>Final Year Project</h3>
-      <p>Full-stack mobile app with admin, backend & frontend modules — BSc Computing capstone</p>
+      <p>Full-stack mobile app with admin, backend and frontend modules, built as the BSc Computing capstone</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -79,7 +79,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>Movie Website</h3>
-      <p>Movie browsing platform with live API integration, search & responsive design</p>
+      <p>Movie browsing platform with live API integration, search functionality and responsive design</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -90,7 +90,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>Flutter Puzzle Game</h3>
-      <p>Interactive cross-platform sliding puzzle game with smooth UI & state management</p>
+      <p>Interactive cross-platform sliding puzzle game with smooth UI and state management</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -99,7 +99,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>To-Do List App</h3>
-      <p>Task management app with React state management & localStorage persistence</p>
+      <p>Task management app built with React state management and localStorage persistence</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/localStorage-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -110,7 +110,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>Personal Journal App</h3>
-      <p>Cross-platform journaling app with CRUD operations on Windows, Android & iOS</p>
+      <p>Cross-platform journaling app with CRUD operations running on Windows, Android and iOS</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -119,7 +119,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>Kumari Cinemas</h3>
-      <p>Cinema booking web app with movie listings, scheduling & ticket management</p>
+      <p>Cinema booking web app with movie listings, scheduling and ticket management</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -135,7 +135,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaminaadhikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaminaadhikari&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
 </p>
 <p align="center">
@@ -153,19 +152,19 @@
 
 <p>
   <a href="https://www.credly.com/badges/95410a51-f696-43b2-a756-afbe87b0628e/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy-Data%20Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Academy%20Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/9c88cc03-ed49-4fe1-a5c7-37ee6cc38da7/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy-ML%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Academy%20ML%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/b8837db7-83de-4abe-bd82-80467acf9c1b/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/7f9ba3d6-dc20-4459-8c77-9c4e2034e855/public_url">
-    <img src="https://img.shields.io/badge/AWS%20Academy-ML%20for%20NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20Academy%20ML%20for%20NLP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
 </p>
 
@@ -173,11 +172,11 @@
 
 <p>
   <a href="https://www.udemy.com/certificate/">
-    <img src="https://img.shields.io/badge/Udemy-Flutter%20%26%20Dart-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Udemy%20Flutter%20and%20Dart-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.coursera.org/search?query=data+structures+and+algorithms">
-    <img src="https://img.shields.io/badge/Coursera-DSA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Coursera%20Data%20Structures%20and%20Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
 </p>
 
