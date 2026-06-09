@@ -180,17 +180,7 @@
   </a>
 </p>
 
-**Other**
 
-<p>
-  <a href="https://www.udemy.com/certificate/">
-    <img src="https://img.shields.io/badge/Udemy%20Flutter%20and%20Dart-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.coursera.org/search?query=data+structures+and+algorithms">
-    <img src="https://img.shields.io/badge/Coursera%20Data%20Structures%20and%20Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
